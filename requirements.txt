@@ -1,9 +1,9 @@
-streamlit==1.20.0
-PyPDF2==3.0.1
+streamlit
+PyPDF2
 re
-sentence-transformers==2.2.2
-yake==0.4.8
-torch==2.1.0
-transformers==4.30.2
+sentence-transformer
+yake
+torch
+transformers
 scikit-learn
 numpy
