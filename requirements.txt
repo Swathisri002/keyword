@@ -1,7 +1,7 @@
 streamlit
 PyPDF2
 re
-sentence-transformer
+sentence-transformers
 yake
 torch
 transformers
